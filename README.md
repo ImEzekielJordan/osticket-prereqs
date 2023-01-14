@@ -47,7 +47,7 @@ Creating Virtual Machine to install osTicket application using Microsoft Azure S
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/f0577f8043e93e8788b5d608e3fd8fbe39d02bdae2461aa57cb996d19bf4114e/68747470733a2f2f692e696d6775722e636f6d2f66656945776f302e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DKzFzpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Connect to the Virtual Machine through Remote Desktop.
