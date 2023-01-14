@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Operating System, Software Basics and Programs Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -35,22 +35,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/Lghow1d.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Introduction.
+<br />
+
+<p>
+<img src="https://i.imgur.com/foLnYeS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating Virtual Machine to install osTicket application using Microsoft Azure Sofeware.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/KBMXcIG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/f0577f8043e93e8788b5d608e3fd8fbe39d02bdae2461aa57cb996d19bf4114e/68747470733a2f2f692e696d6775722e636f6d2f66656945776f302e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connect to the Virtual Machine through Remote Desktop.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FMXMPBb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating Virtual Machine to install osTicket application using Microsoft Azure Sofeware.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8kUB2Xn.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating Virtual Machine to install osTicket application using Microsoft Azure Sofeware.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/pOjDJVZ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating Virtual Machine to install osTicket application using Microsoft Azure Sofeware.
 </p>
 <br />
